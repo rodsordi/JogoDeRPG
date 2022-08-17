@@ -1,0 +1,14 @@
+# 136 Polimorfismo
+
+- Qualquer objeto que "É um" pode ser considerado polimorfico (Exceto Object)
+- Objetos são acessados somente por meio de variáveis de referencia
+
+## Variável de referência
+- Tem tipagem forte
+- É variável, pode ser reatribuída (exceto final)
+- Determina quais métodos podem ser invocados
+- Pode referenciar objetos que herdam do mesmo tipo
+- Pode ser do tipo classe ou interface
+
+- Classes não herdam mais de uma classe
+- Uma classe pode ser atribuida à qualquer variável de referencia do tipo de suas heranças e interfaces
